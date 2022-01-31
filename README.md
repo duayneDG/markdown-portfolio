@@ -18,10 +18,10 @@ Unordered list
       * number 2b
 
 Ordered list
-   1. Number 1
-   2. Number 2 ⋅⋅
-     2.1 Number ⋅⋅
-     2.2 Number ⋅⋅
+   1. Number 
+   2. Number 
+     2.1 Number 
+     2.2 Number 
 
 *This assignment is now complete*
 
