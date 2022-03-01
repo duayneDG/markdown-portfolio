@@ -12,6 +12,8 @@ If you ever have any questions about Markdown syntax, feel free to reference the
 # Duayne Gordon
 
 [alt "Old Man"](image https://www.freecodecamp.org/news/content/images/size/w60/2021/01/Technic-Avatar.png)
+
+
 Unordered list
    * number 1
    * number 2
